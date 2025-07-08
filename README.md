@@ -11,16 +11,3 @@ This project demonstrates how to build an ethically sound deep learning model fo
 - ⚖️ Bias detection and fairness analysis
 - 🔁 Fairness improvement via data re-sampling and retraining
 
-## Requirements
-
-- Python 3.8+
-- TensorFlow / Keras
-- Pandas
-- Scikit-learn
-- Matplotlib / Seaborn
-- LIME
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
